@@ -1,0 +1,13 @@
+package com.micheleverriello.snssmspoc;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SnsSmsPocApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(SnsSmsPocApplication.class, args);
+    }
+
+}
